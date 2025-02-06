@@ -39,3 +39,5 @@
   - List Comprehensions (For Loop vs One-line Loop)
  
 ### The course outline will be updated...
+
+### Be sure to subscribe to my [YouTube Channel](https://www.youtube.com/c/@ElijahAppiah) and activate the notification bell to receive the alert whenever I post a video. More interesting lessons are coming!
