@@ -37,6 +37,34 @@
   - For Loop
   - While Loop
   - List Comprehensions (For Loop vs One-line Loop)
+- **Functions**
+  - Create Functions
+  - Nested Statements with Functions
+  - Lambda Expressions
+- **Object Oriented Programming (OOP)**
+  - Objects
+  - Classes
+  - Methods
+  - Inheritance and Multiple Inheritance
+  - Polymorphism
+  - Encapsulation
+- **Errors and Exception Handling**
+  - Errors, Exceptions, try, except, finally
+- **Modules and Packages**
+  - Available Advanced Modules (Collection, Math, Random)
+  - Creating Modules***
+  - Installing Modules
+  - Exploring the Python EcoSystem
+- **Built-in Functions**
+  - Map, reduce, filter, zip, enumerate, all and any, complex
+- **Decorators and Python Generators**
+  - Decorators
+  - Generators (Iteration versus Generation, Creating Generators)
+- **Optional Lectures**
+  - Working with PDFs, Spreadsheets, CSV Files
+  - Web Scraping
+  - Working with Images
+  - Emails with Python
 
 ## DATA ANALYSIS WITH PYTHON
 
