@@ -7,7 +7,7 @@
 - Scientific Computing with Python
 - Data Analysis with Python
 
-### Here is an outline of what is covered: 
+### Here is an outline of what is covered:
 
 ## SCIENTIFIC COMPUTING WITH PYTHON
 - **Introduction**
