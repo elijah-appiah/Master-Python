@@ -67,6 +67,9 @@
   - Emails with Python
 
 ## DATA ANALYSIS WITH PYTHON
+- NumPy
+- Pandas
+- Statsmodels API for Linear Regression and Generalized Linear Regression
 
 ### The course outline will be updated...
 
