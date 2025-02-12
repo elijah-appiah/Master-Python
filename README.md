@@ -71,6 +71,12 @@
 - Pandas
 - Statsmodels API for Linear Regression and Generalized Linear Regression
 
+## LIBRARIES FOR DATA VISUALIZATION WITH PYTHON
+- Matplotlib
+- Seaborn
+- Interactive Python Widgets in Visualizations (with `ipywidgets` library)
+- Plotnine 
+
 ### The course outline will be updated...
 
 ### Be sure to subscribe to my [YouTube Channel](https://www.youtube.com/c/@ElijahAppiah) and activate the notification bell to receive the alert whenever I post a video. More interesting lessons are coming!
