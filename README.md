@@ -77,6 +77,6 @@
 - Interactive Python Widgets in Visualizations (with `ipywidgets` library)
 - Plotnine 
 
-### The course outline will be updated...
+### The course outline will continue to be updated...
 
 ### Be sure to subscribe to my [YouTube Channel](https://www.youtube.com/c/@ElijahAppiah) and activate the notification bell to receive the alert whenever I post a video. More interesting lessons are coming!
