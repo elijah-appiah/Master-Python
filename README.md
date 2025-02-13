@@ -74,8 +74,8 @@
 ## LIBRARIES FOR DATA VISUALIZATION WITH PYTHON
 - Matplotlib
 - Seaborn
-- Interactive Python Widgets in Visualizations (with `ipywidgets` library)
-- Plotnine 
+- Plotnine
+- Interactive Python Widgets in Visualizations (with `ipywidgets` library) 
 
 ### The course outline will continue to be updated...
 
