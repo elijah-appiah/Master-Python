@@ -9,7 +9,7 @@
 
 ### Here is an outline of what is covered:
 
-## SCIENTIFIC COMPUTING WITH PYTHON
+## SCIENTIFIC COMPUTING WITH PYTHON 
 - **Introduction**
   - About Python Programming
   - Python Setup and Installation (Anaconda)
