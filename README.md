@@ -3,7 +3,7 @@
 
 <hr>
 
-### The Python programming course is organized into two main parts: 
+### The Python programming course is organized into two main parts:
 - Scientific Computing with Python
 - Data Analysis with Python
 
